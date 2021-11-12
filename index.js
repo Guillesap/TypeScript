@@ -6,11 +6,6 @@ nombre = "Guille";
 var edad;
 edad = 41;
 console.log(nombre + edad);
-//Sumando valores (colocando de entrada dos valores, se obtiene la suma total de los mismos)
-function sumar(valor1, valor2) {
-    return valor1 + valor2;
-}
-console.log(sumar(2, 8));
 //Simulador Calculador IVA  (colocando de entrada un monto, se obtiene por consola el monto final con Iva incluido)
 var precio;
 precio = 400;
@@ -21,5 +16,5 @@ console.log(precio * iva);
 var monto;
 monto = 10000;
 var interes;
-interes = 1.40;
+interes = 1.50;
 console.log(monto * interes);
