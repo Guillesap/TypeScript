@@ -21,4 +21,11 @@ var iva;
 iva=1.21;
 console.log(precio*iva)
 
+//Simulador Calculador Prestamo  (colocando de entrada un monto que pretende solicitar, se obtiene por consola el monto final con intereses que debe devolver)
+var monto;
+monto = 10000;
+var interes;
+interes=1.40;
+console.log(monto*interes)
+
 
