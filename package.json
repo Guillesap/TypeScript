@@ -4,7 +4,7 @@
   "description": "mi primer trabajo typescript",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
