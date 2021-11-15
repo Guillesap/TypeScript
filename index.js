@@ -18,7 +18,7 @@ monto = 10000;
 var interes;
 interes = 1.50;
 console.log(monto * interes);
-//Compra de Dolares (ingrese la suma en pesos y obtendrá por consola cuantos dolares puede comprar)
+//Compra de Dolares (ingrese la suma de pesos y obtendrá por consola cuantos dolares puede comprar)
 var pesos;
 pesos = 800;
 var dolar;
